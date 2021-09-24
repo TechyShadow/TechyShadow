@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TechyShadow
-- 👀 I’m interested in coding in c#, python, java,c++
+- 👀 I’m interested in coding in c#,java, javascript, c++, html&css
 - 💞️ I’m looking to collaborate on Youtube(Channel name: TechyShadow)
 - 📫 How to reach me Discord username:TechyShadow#8380
 <!---
